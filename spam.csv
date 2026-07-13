@@ -1,0 +1,21 @@
+sentence,tags
+I love Python,PRON VERB NOUN
+She likes music,PRON VERB NOUN
+We study AI,PRON VERB NOUN
+They play cricket,PRON VERB NOUN
+Students learn programming,NOUN VERB NOUN
+Cats eat fish,NOUN VERB NOUN
+Dogs bark loudly,NOUN VERB ADV
+Birds fly high,NOUN VERB ADV
+He reads books,PRON VERB NOUN
+You write code,PRON VERB NOUN
+The sun shines,DET NOUN VERB
+The cat sleeps,DET NOUN VERB
+The dog runs,DET NOUN VERB
+Artificial intelligence grows,ADJ NOUN VERB
+Machine learning works,NOUN NOUN VERB
+Deep learning improves,ADJ NOUN VERB
+Natural language processing,NOUN NOUN NOUN
+Python is powerful,NOUN VERB ADJ
+Java is popular,NOUN VERB ADJ
+TensorFlow builds models,NOUN VERB NOUN
